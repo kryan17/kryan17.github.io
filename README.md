@@ -1,3 +1,3 @@
 # Katie's Murder Mystery
 
-Online Resource for Katie's Murder Mystery Game
+Online Resource for Murder in the Roaring Twenties Mystery Game
