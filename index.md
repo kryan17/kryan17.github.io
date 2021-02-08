@@ -4,3 +4,5 @@ Gray Catsby has invited his most talented and wealthy friends to a charity gala 
 
 <h2> How does it work? </h2>
 Before the party, you will be assigned (or will select) one of the <a href="https://kryan17.github.io/characters">available characters</a>.
+
+At the time of the event, the host will lead you through three acts as you learn about the crime committed and gather clues to solve the mystery. 
