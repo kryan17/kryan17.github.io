@@ -1,5 +1,5 @@
 <h1> Character List </h1>
-<a href="https://kryan17.github.io/">Back to Home text</a>
+<a href="https://kryan17.github.io/">Back to Home</a>
 </br>
 <h3> Art Deco </h3>
 You are an architect. Appearances are everything, so you always wear a smart three-piece suit accompanied by a bowler derby hat, with a pencil behind your ear and a tape measure tucked somewhere. Think angular.
@@ -44,4 +44,4 @@ You are a party girl. Your short blonde hair is fashionably permed and complemen
 You are a club manager. As a fashion lover, you're happiest wearing pinstripe dresses with a mock feather boa and a trilby hat to show you can be one of the boys too. 
 
 
-<a href="https://kryan17.github.io/">Back to Home text</a>
+<a href="https://kryan17.github.io/">Back to Home</a>
