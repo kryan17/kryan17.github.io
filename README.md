@@ -1,3 +1,3 @@
-# kryan17.github.io
+# Katie's Murder Mystery
 
-For hosting websites
+Online Resource for Katie's Murder Mystery Game
