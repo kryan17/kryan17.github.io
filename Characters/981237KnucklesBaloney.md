@@ -12,24 +12,33 @@
 <p> Ginger was a dancer at one of your clubs and she left without asking. Escaped, some would say. Luckily you found her here when your car broke down. Lucky for you anyways… </p> 
 
 <h2> Act One – Old Banger </h2>
+
 __If asked how your car broken down say:__
+
 <p> If I knew the answer to that I wouldn’t have called a mechanic, would I? All I know is there was a sound like a gunshot and then the car grinds to a halt. I can’t believe my lucky finding this place. I thought I was going to be stuck in the middle of nowhere! </p>
   
 __If asked whether you like Catsby Hall, if you’re INNOCENT say:__
+
 <p> It’s a swell digs. I’d like my whole family to move in here by that’s beside the point. I feel very fortunate running into all the people here – Mr. Catsby with his generous nature, and even Ginger had a familiar face. </p>
 
 __If asked whether you like Catsby Hall, if you’re GUILTY say:__
+
 <p> It’s a swell digs. I’d like my whole family to move in here by that’s beside the point. I feel very fortunate running into all the people here – Mr. Catsby with his generous nature, and even Ginger had a familiar face. Catsby Hall seems like a place that’s full of respect which is good. ‘Cos if I see someone disrespecting a place like this or me, why I oughta… </p>
 
 <h2> Act Two – Sophisticats </h2>
+
 __If asked about knowing Ginger say:__
+
 <p> I said the broad had a familiar face and she did. Ginger used to work for me, she was one of my employees. I was surprised to see her here, especially as she didn’t hand in her notice or say goodbye. I think she was surprised to see me too. </p>
   
 __If asked what Ginger did for you say:__
-<p> She was an amazing danger at the Cute Kitten, one of my clubs. She brought in a lot of money ‘cos the punters loved her. Got through fishnets like nobody’s business too, doing all those splits. To be honest, I was a bit angry at first. But now she’s dead, I feel all those bitter feelings replaced with, well, other ones.  </p>
+
+<p> She was an amazing dancer at the Cute Kitten, one of my clubs. She brought in a lot of money ‘cos the punters loved her. Got through fishnets like nobody’s business too, doing all those splits. To be honest, I was a bit angry at first. But now she’s dead, I feel all those bitter feelings replaced with, well, other ones.  </p>
 
 <h2> Act Three – Plan C </h2>
+
 __If asked about upsetting Ginger, say:__
+
 <p> Sure, she got upset. I had a little word in her ear about leaving my club without saying goodbye. Now, I’m a fair man, especially as Mr. Catsby had been so generous. I told her that she could return and work for me, or pay me a cool hundred grand. She said even Catsby couldn’t afford that and asked about option three. I told her she didn’t want to know about option three. There’s a plan A, and a plan B. Plan C is never the best plan. It’s pals with option three. </p>
   
 __If asked about being in the dining room, if you’re INNOCENT say:__
@@ -41,6 +50,7 @@ __ If asked about being in the dining room, if you’re GUILTY say:__
 <p> I was only in the dining room for a New York minute. Ginger wanted to know about option three so I thought I’d go tell her about it face to face but from the look of things, she didn’t like option three either. Other than that I’ve mainly been hanging out in the kitchen talking to that Chef Cleaver guy. He’s got some great stories to tell- and a lot of dirt on Catsby. Did you know Catsby Hall was built on top of an ancient burial ground, without planning permission?   </p>
 
 <h2> End Game </h2>
+
 __If you're INNOCENT say:__
 
 <p> I’m going to be honest with you all. The card did break down but I didn’t expect to see Ginger here. It was like all my Christmases had come at once, since I’d been looking for her anyways. Nobody crosses me and lives, and that’s still the truth. Just this time I didn’t have to do anything at all. </p>
