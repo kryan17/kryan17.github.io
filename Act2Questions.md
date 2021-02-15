@@ -1,55 +1,57 @@
-Ask Art Deco
-What were you doing from 5 to 6pm?
-Why would someone spy on you?
+<h1> Round Two Questions </h1>
 
-Ask Bebop B’Doo
-Did you make a donation?
-Will you leave it as a donation?
+<h4>Ask Art Deco</h4>
+<p>What were you doing from 5 to 6pm?</p>
+<p>Why would someone spy on you?</p>
 
-Ask Booboo B’Doo
-Did you make a donation?
-How old are you?
+<h4>Ask Bebop B’Doo</h4>
+<p>Did you make a donation?</p>
+<p>Will you leave it as a donation?</p>
 
-Ask Casey Stumbles
-What was your previous job?
-What was ‘the incident’?
+<h4>Ask Booboo B’Doo</h4>
+<p>Did you make a donation?</p>
+<p>How old are you?</p>
 
-Ask Chyna Balloons
-Did you use to date Gray Catsby?
-Were you jealous of Ginger?
+<h4>Ask Casey Stumbles</h4>
+<p>What was your previous job?</p>
+<p>What was ‘the incident’?</p>
 
-Ask Clea Du Boudoir
-What private papers have you found?
-What had been changed in the will?
+<h4>Ask Chyna Balloons</h4>
+<p>Did you use to date Gray Catsby?</p>
+<p>Were you jealous of Ginger?</p>
 
-Ask Farley Hatpin
-What was Ginger’s charade?
-What is your dark secret?
+<h4>Ask Clea Du Boudoir</h4>
+<p>What private papers have you found?</p>
+<p>What had been changed in the will?</p>
 
-Ask Gray Catsby
-Was Ginger after you for your money?
-Did Ginger know Daisy?
+<h4>Ask Farley Hatpin</h4>
+<p>What was Ginger’s charade?</p>
+<p>What is your dark secret?</p>
 
-Ask Greta Garbled
-Why did you give Gray love poems?
-Have you ever been in Gray’s kitchen?
+<h4>Ask Gray Catsby</h4>
+<p>Was Ginger after you for your money?</p>
+<p>Did Ginger know Daisy?</p>
 
-Ask Halliday Inn
-Have you been in the kitchen?
-Will you get money from the hotel sale?
+<h4>Ask Greta Garbled</h4>
+<p>Why did you give Gray love poems?</p>
+<p>Have you ever been in Gray’s kitchen?</p>
 
-Ask Harvey Wallbanger
-Did you poison Ginger?
-How many drinks did Ginger have?
+<h4>Ask Halliday Inn</h4>
+<p>Have you been in the kitchen?</p>
+<p>Will you get money from the hotel sale?</p>
 
-Ask Knuckles Baloney
-How did you know Ginger?
-What did Ginger do for you?
+<h4>Ask Harvey Wallbanger</h4>
+<p>Did you poison Ginger?</p>
+<p>How many drinks did Ginger have?</p>
 
-Ask Sydney Hilton
-Why did you send cat clothes to Ginger?
-Did you kill Ginger to get revenge?
+<h4>Ask Knuckles Baloney</h4>
+<p>How did you know Ginger?</p>
+<p>What did Ginger do for you?</p>
 
-Ask Toots Mahoney
-Did you know Ginger?
-Was Ginger surprised to see you?
+<h4>Ask Sydney Hilton</h4>
+<p>Why did you send cat clothes to Ginger?</p>
+<p>Did you kill Ginger to get revenge?</p>
+
+<h4>Ask Toots Mahoney </h4>
+<p>Did you know Ginger?</p>
+<p>Was Ginger surprised to see you?</p>
