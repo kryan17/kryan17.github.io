@@ -22,3 +22,11 @@ __If asked whether you’ve been in the kitchen today, if you’re INNOCENT say:
 
 __If asked whether you’ve been in the kitchen today, if you’re GUILTY say:__
 <p> Of course I have, the door to the kitchen is behind the bar so I can fetch ice and water for your every whim. I’m not going to be very popular serving warm drinks, am I? I took a toilet break sometime after 5pm too, is that allowed? </p>
+
+<h2> Act Two – Punch Drunk </h2>
+
+__If asked about poisoning Ginger, say:__
+<p> I don’t think so. Yes, my mixes can be potent, but only in a fun “room-spinning-can’t-hold-in-your-dinner” kind of way. It’s not poison though. It’s alcohol, isn’t it. It’s good for you! </p>
+  
+__If asked how much Ginger drank say:__
+<p> She’d had three G&Ts since this morning. She was worried about getting everything right for Catsby, who’d drunk three times before breakfast. I’m no doctor, but I’d wager her alcohol had burned off well before 5pm today. I don’t think that’s to blame. </p>
