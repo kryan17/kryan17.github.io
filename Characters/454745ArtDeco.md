@@ -9,3 +9,25 @@ Arthur Deco, pleased to meet you all. You can call me Art. It’s such a shame, 
 <h3> For Your Eyes Only! </h3> 
 Gray Catsby made a gentleman’s wager with you- if he wasn’t married by the time he turned 30, he would give you Catsby Hall. You’ve gone out of your way to sabotage his previous relationships, but Ginger proved to be a problem ... 
 
+<h2> Act One – Vertigo </h2>
+
+<b> If asked about Catsby’s fiancée, say: </b>
+<p> Which one? Ms. Duvall? I had nothing to do with that. She was standing nextx to me when she fell, but she was flouncing around near a cliff edge- what did she expect? </p>
+
+<b> If asked whether you liked Ginger say: </b>
+
+<p> Who didn’t like Ginger? She was smitten with Catsby and I’ve never seen Gray act like he does around anyone else – aside from Ms. Duvall I suppose. </p>
+
+<h2> Act Two – Cat Napping </h2>
+
+<b> If asked what you were doing between 5pm and 6pm, say: </b>
+
+<p> I believe I was having a cap nap. Gray is such a great host, he always lets me stay in the room with the most comfortable bed, and the conversation in the library had drifted somewhat. Obviously, I can’t prove my whereabouts, unless someone was spying on me? </p>
+
+<b> If asked why someone would spy on you, if you are INNOCENT say: </b>
+
+<p> It’s just a turn of phrase, my dears. Since the subject of Ms. Duvall was brough up earlier, it’s made me feel a little skittish. Almost as though any involvement with the ghastly tragedies befalling Catsby’s previous fiancées makes me a shoe in for this one! </p> 
+
+<b> If asked why someone would spy on you, if you are GUILTY say: </b>
+
+<p> Fine, I was talking to Ginger in the dining room, is that what you want to hear? We were planning a surprise for Catsby but now it’s ruined. Someone’s spying on me though, trying to make it look like I’m guilty. I’m certain someone was lurking outside the dining room while we were talking. </p>
