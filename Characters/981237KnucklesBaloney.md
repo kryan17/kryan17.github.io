@@ -45,7 +45,7 @@ __If asked about being in the dining room, if you’re INNOCENT say:__
 
 <p> I don’t know what you’re trying to pin on me, but I haven’t been in the dining room at all. I was watching some ridiculous Farley Hatpin movie in the projection room which ran from half past four to 6pm. Which reminds me, someone needs to fix the sounds in there. Geez, I thought the mechanic would have showed up by now but he’s still not here. Guess I’ll be spending the night. Thanks Mr Catsby. </p>
 
-__ If asked about being in the dining room, if you’re GUILTY say:__
+__If asked about being in the dining room, if you’re GUILTY say:__ 
 
 <p> I was only in the dining room for a New York minute. Ginger wanted to know about option three so I thought I’d go tell her about it face to face but from the look of things, she didn’t like option three either. Other than that I’ve mainly been hanging out in the kitchen talking to that Chef Cleaver guy. He’s got some great stories to tell- and a lot of dirt on Catsby. Did you know Catsby Hall was built on top of an ancient burial ground, without planning permission?   </p>
 
