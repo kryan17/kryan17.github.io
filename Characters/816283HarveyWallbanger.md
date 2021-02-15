@@ -15,10 +15,10 @@ You like to think you’re a ladies man but when Ginger turned down on of your p
 <h2> Act One - Hot & Cold Drinks </h2>
 
 __If asked whether there’s an ice pick behind the bar, say:__
-<p> I do normally carry an ice pick with me, it’s one of the tools of the trade, but I was told everything would be provided for me at Catsby Hall- which it was. The ice pick and a plentiful supply of ice are both kept in the kitchen. 
+<p> I do normally carry an ice pick with me, it’s one of the tools of the trade, but I was told everything would be provided for me at Catsby Hall- which it was. The ice pick and a plentiful supply of ice are both kept in the kitchen. </p>
   
 __If asked whether you’ve been in the kitchen today, if you’re INNOCENT say:__
-Er, no. When I said I’ve been behind the bar all day it means exactly that. I haven’t left my post. Yes, the door to the kitchen is behind the bar by Chef Cleaver has been bringing the ice through to me all day. Go and ask him. 
+<p> Er, no. When I said I’ve been behind the bar all day it means exactly that. I haven’t left my post. Yes, the door to the kitchen is behind the bar by Chef Cleaver has been bringing the ice through to me all day. Go and ask him. </p>
 
 __If asked whether you’ve been in the kitchen today, if you’re GUILTY say:__
-Of course I have, the door to the kitchen is behind the bar so I can fetch ice and water for your every whim. I’m not going to be very popular serving warm drinks, am I? I took a toilet break sometime after 5pm too, is that allowed? 
+<p> Of course I have, the door to the kitchen is behind the bar so I can fetch ice and water for your every whim. I’m not going to be very popular serving warm drinks, am I? I took a toilet break sometime after 5pm too, is that allowed? </p>
