@@ -45,3 +45,13 @@ __If asked where you did it, if you’re GUILTY say:__
 
 <p> She was, um, alone in the gardens. I saw her through the window from the bar and she looked freezing cold, so I went out and offered her my jacket, which she accepted. I took that as the ‘anything goes’ signal and swooped in with a smacker. I’ve never been rejected before in my entire life so I was a bit stunned. Needless to say, I beat a hasty retreat back to the bar and poured myself a large Flappertini, which is sort of a Martini mixed with a Flapper. Don’t ask me what’s in a Flapper- that’s a secret I’ll never tell!  </p>
 
+
+<h2> End Game </h2>
+
+__If you're INNOCENT say:__
+
+<p> I’ve been behind the bar all day. I’ve even worn the carpet here, have a look. G&T was a lovely girl and it’s wrong what was done to her. I got a bit miffed when she rejected my smoochies but I picked myself up and kept making smoothies for everyone else. I’m also available for funerals and bar mitzvahs. </p>
+
+__If you're GUILTY, wait until last to say:__
+
+<p> When you’re in my line of work, everything rests on your reputation. I’ll get my next job off a referral from someone I’ve served here. Do you know what looks bad? If you try and neck with the client’s fiancée, especially if she turns you down. I wasn’t on a toilet break at 5pm- I was enjoying a Ginger chaser, right into the dining room. I was certain she was sweet on me from all the looks she gave me at the bar. I got up close and said, “What’s with all the looks?” then moved in for a kiss. She gently pushed me away and said, “You’ve had ketchup on your collar all day.” I was furious, not only about the impending dry cleaning bill but about the rejection. I said, “Thanks,” and “Look in the dumbwaiter there’s a present for you.” She clapped with joy and rushed over giggling, presumably thinking Catsby had bought her some expensive gift. And when she looked in, the ice pick came down! Nobody rejects a Harvey Wallbanger! The only bars I’ll be serving behind now will be at His Majesty’s pleasure. Or maybe not. Chin up everyone, I only poisoned some of you! </p>
