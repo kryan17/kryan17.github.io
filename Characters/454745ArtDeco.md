@@ -31,3 +31,17 @@ Gray Catsby made a gentleman’s wager with you- if he wasn’t married by the t
 <b> If asked why someone would spy on you, if you are GUILTY say: </b>
 
 <p> Fine, I was talking to Ginger in the dining room, is that what you want to hear? We were planning a surprise for Catsby but now it’s ruined. Someone’s spying on me though, trying to make it look like I’m guilty. I’m certain someone was lurking outside the dining room while we were talking. </p>
+
+<h2> Act Three – On The Rocks </h2>
+
+<b> If asked about your wager with Catsby, say: </b>
+<p> Gray, being the charming and self-assured fellow he is, promised to bequest me Catsby Hall should he not marry by his 30th birthday. It was a one-sided bet whereby I wagered nothing at all. I do love Catsby Hall, and I’ve no idea whether Gray will honor our gentleman’s agreement should the time come, but I wasn’t about to murder someone just to be in the running. It’s bad enough that Ms. Duvall came to that bitter end with me being so very adjacent to her. At least I can safely say I had nothing to do with his previous fiancée’s death- Daisy, that is. Poor Gray, he has the worst luck! </p>
+
+<b> If someone asks whether you were in the kitchen, if you are INNOCENT say: </b>
+
+<p> No, I’m afraid I have been nowhere near the kitchen during my stay. That is where the culinary magic happens and I’m happy to let it stay that way. What would I be doing in the kitchen anyway? Getting an ice pick? </p>
+
+<b> If someone asks whether you were in the kitchen, if you are GUILTY say: </b>
+
+<p>I’m in the kitchen all the time. Chef Cleaver stores all the best Scotch down there and doesn’t bring it out for any old riff-raff! Why, only earlier today, Chef and I were discussing the art gallery I’ve been working on. And before you ask, I like my Scotch without rocks so I’d have no need for an ice pick, although it’s been quite heated in here tonight. </p>
+
