@@ -1,6 +1,6 @@
 <h1> Questions for Act One </h1>
 
-<h3> Ask Art Deco </h3> 
+<h4> Ask Art Deco </h4> 
 
 <p> What happened to Catsby’s last fiancée?
 <p> Did you like Ginger Whiskers?
