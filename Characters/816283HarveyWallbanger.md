@@ -34,10 +34,14 @@ __If asked how much Ginger drank say:__
 <h2> Act Three – Ginger Schnapps </h2>
 
 __If asked about making a pass at Ginger, say:__
+
 <p> Stead on everyone! I’m a barman, it’s my job to make people feel special. Ginger’s such a happy flapper, I just felt the moment was right to move in for a smooch. Seems she wasn’t ready to misbehave and anything didn’t go. She turned me down, which is a first for me- and hopefully a last. </p>
   
 __If asked where you did it, if you’re INNOCENT say:__
+
 <p> It was late afternoon at the bar. Ginger had asked me to pour her fourth G&T. I remember clearly because she threw that one over me, which is how I knew she’d only have three drinks in total today. In hindsight, I probably should have made my move before pouring the drink. Needless to say, I poured myself a large Flappertini, which is sort of a Martini mixed with a Flapper. Don’t ask me what’s in a Flapper- that’s a secret I’ll never tell! </p>
+
 __If asked where you did it, if you’re GUILTY say:__
+
 <p> She was, um, alone in the gardens. I saw her through the window from the bar and she looked freezing cold, so I went out and offered her my jacket, which she accepted. I took that as the ‘anything goes’ signal and swooped in with a smacker. I’ve never been rejected before in my entire life so I was a bit stunned. Needless to say, I beat a hasty retreat back to the bar and poured myself a large Flappertini, which is sort of a Martini mixed with a Flapper. Don’t ask me what’s in a Flapper- that’s a secret I’ll never tell!  </p>
 
