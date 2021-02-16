@@ -29,7 +29,7 @@ __If asked if Ginger was after your money, if you're GUILTY say:__
 <p> I hope not. I lost all my money in a poker game last week. This party was my last hurrah. I haven’t eaten in two days just so I could pay the bartender, and I’m moving back in with my parents tomorrow. I hadn’t told Ginger but I don’t think she’d have minded. She was a rock throughout the whole Daisy debacle. </p>
 
 __If asked whether Ginger knew Daisy say:__
-<p> Not much. But Ginger knew me and, by strange coincidence, Ginger was the one that found Daisy on that fateful day. She wasn’t gazed at all. Amazing!  </p>
+<p> Not much. But Ginger knew me and, by strange coincidence, Ginger was the one that found Daisy on that fateful day. She wasn’t fazed at all. Amazing!  </p>
 
 <h2> Act Three – Old Spice </h2>
 
