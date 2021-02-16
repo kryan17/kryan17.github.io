@@ -13,6 +13,7 @@
 
 
 <h2> Act One – Old Sport </h2>
+
 __If asked why you're not more upset say:__
 <p>Oh, I’m just putting on a brave face for everyone. I’m devastate about Ginger really. I loved that girl more than a forced backhand lob down the line. Did I mention I used to play professional tennis? I was at the top of my game but I gave it all up for Daisy – sorry, I mean Ginger. Daisy is an old flame. I don’t know what I said her name. It must be the shock kicking in. </p>
   
@@ -20,6 +21,7 @@ __If asked what Daisy's got to do with it, say:__
 <p>Nothing, nothing at all. Daisy and I were engaged a long time ago- two, maybe three months! But she died suddenly when the scarf she was wearing got tangled in a ceiling fan. She was trying to change a lightbulb at the time. It was so tragic…    </p>
 
 <h2> Act Two – Old Money </h2>
+
 __If asked if Ginger was after your money, if you're INNOCENT say:__
 <p>Before today, I’d have thumped you for saying such a thing. Now I’m not so sure. I suppose all the signs were there. When I asked her to marry me, she wouldn’t say yes until I showed her the ring. And the sales receipt for it. Daisy never did that. </p>
   
@@ -30,6 +32,7 @@ __If asked whether Ginger knew Daisy say:__
 <p> Not much. But Ginger knew me and, by strange coincidence, Ginger was the one that found Daisy on that fateful day. She wasn’t gazed at all. Amazing!  </p>
 
 <h2> Act Three – Old Spice </h2>
+
 __If asked whether Ginger killed Daisy, if you’re INNOCENT say:__
 <p>No, no she didn’t. Can we stop talking about Daisy’s death? This is Ginger’s death now, let her have her turn. </p>
   
