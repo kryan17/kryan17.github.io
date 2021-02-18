@@ -12,12 +12,13 @@
 <p>You live a lonely existence, courted by many, cared for by few. Only Gray Catsby looked after you, which is why you are so hopelessly smitten with him…  </p>
 
 
-<h2> Act One – XXX </h2>
-__If asked XXX say:__
-<p>  </p>
+<h2> Act One – The Script </h2>
+__If asked what your film is about say:__
+<p>I play the part of a woman desperately in love with a man who is married to another. Slowly but surely, her obsession grows until, at the very climax, she kills the other woman and the poor, broken hearted widower seeks solace in her arms. It’s a musical comedy. </p>
   
-__If asked xxx say:__
-<p>  </p>
+__If asked how well you knew Ginger say:__
+<p>  I didn’t know Ginger at al. I’ve only met her once, and she was already dead then. Of course, I know everything _about¬_ her, dahling. Gray’s told me every detail of their fine romance – poor me!  But I have not had the pleasure myself. Shame. She sounded like such a sweet kartoffel. </p>
+
 
 <h2> Act Two – XXX </h2>
 __If asked XXX say:__
