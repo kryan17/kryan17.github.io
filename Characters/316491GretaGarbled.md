@@ -36,7 +36,7 @@ __If asked whether you’ve been in Gray’s kitchen say:__
 <h2> Act Three – The Secret </h2>
 
 __If asked if you have feelings for Gray say:__
-<p> Of course I do, dahling! I _adore_ him. But then, doesn’t everybody? Ginger didn’t know how lucky she was. To be engaged to such a handsome, rich, debonair bachelor? It’s what every girl dreams of. It reminds me of this line from  my latest movie: “I could always trust him to hang up my coat. Lean on him whilst I pulled up my stockings. Turn to him for an umbrella in the rain. I loved that hat stand, like nobody’s business.” </p>
+<p> Of course I do, dahling! I adore him. But then, doesn’t everybody? Ginger didn’t know how lucky she was. To be engaged to such a handsome, rich, debonair bachelor? It’s what every girl dreams of. It reminds me of this line from  my latest movie: “I could always trust him to hang up my coat. Lean on him whilst I pulled up my stockings. Turn to him for an umbrella in the rain. I loved that hat stand, like nobody’s business.” </p>
 
 __If asked where you were at the time of the murder, if you’re INNOCENT say:__
 <p> I was in the projection room, watching Farley Hatpin’s movie – although I missed the beginning. I could have played the leading lady, but I refused to wear the moustache. </p>
