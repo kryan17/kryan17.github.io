@@ -18,7 +18,7 @@ __If asked what your film is about say:__
 <p>I play the part of a woman desperately in love with a man who is married to another. Slowly but surely, her obsession grows until, at the very climax, she kills the other woman and the poor, broken hearted widower seeks solace in her arms. It’s a musical comedy. </p>
   
 __If asked how well you knew Ginger say:__
-<p>  I didn’t know Ginger at al. I’ve only met her once, and she was already dead then. Of course, I know everything _about¬_ her, dahling. Gray’s told me every detail of their fine romance – poor me!  But I have not had the pleasure myself. Shame. She sounded like such a sweet kartoffel. </p>
+<p>  I didn’t know Ginger at al. I’ve only met her once, and she was already dead then. Of course, I know everything _about_ her, dahling. Gray’s told me every detail of their fine romance – poor me!  But I have not had the pleasure myself. Shame. She sounded like such a sweet kartoffel. </p>
 
 
 <h2> Act Two – The Scene </h2>
@@ -34,6 +34,7 @@ __If asked whether you’ve been in Gray’s kitchen say:__
 
 
 <h2> Act Three – The Secret </h2>
+
 __If asked if you have feelings for Gray say:__
 <p> Of course I do, dahling! I _adore_ him. But then, doesn’t everybody? Ginger didn’t know how lucky she was. To be engaged to such a handsome, rich, debonair bachelor? It’s what every girl dreams of. It reminds me of this line from  my latest movie: “I could always trust him to hang up my coat. Lean on him whilst I pulled up my stockings. Turn to him for an umbrella in the rain. I loved that hat stand, like nobody’s business.” </p>
 
@@ -47,8 +48,8 @@ __If asked where you were at the time of the murder, if you’re GUILTY say:__
 <h2> End Game </h2>
 
 __If you're INNOCENT say:__
-<p> </p>
+<p>I know you’d like to cast me as some tragic, jealous victim of unrequited love but I was happy for Gray and Ginger. He was my best friend – why would I want to hurt him by killing the woman he loved? And so publicly? </p>
 
 __If you're GUILTY, wait until last to say:__
-<p>  </p>
+<p> Gray Catsby and I have been close for years. So naturally, I thought that one day we would fall in love, get married, and have two perfect children and a nanny. Then Ginger came along and stole my future. Perhaps I immersed myself too deeply in my latest role. Or perhaps I’m just crazy in love. Either way, killing Ginger was the only thing that made sense. I stole an ice pick as I passed through the kitchen and made my way upstairs. I knew a girl like Ginger would want to freshen up before dinner and sure enough, just after five, she did. We “bumped into each other” in the dining room – but there was not time to chat before I stabbed her with the ice pick and stuffed her into the dumbwaiter. Then I retrieved the book of poems from Gray’s study. I didn’t want that lying around, giving away my mother – but somehow you knew about it anyways. So I guess I’m going to be behind bars for my next role. I think this line sums it up best: “You can take the girl out of prison, but you can’t take the prisoners out of the …” Actually I think I’ve got that wrong. Line? Line anyone?   </p>
 
