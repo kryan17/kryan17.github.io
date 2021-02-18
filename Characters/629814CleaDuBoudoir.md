@@ -23,7 +23,7 @@ __If asked when you were last in the dining room, if you're INNOCENT say:__
 
 __If asked when you were last in the dining room, if you're GUILTY say:__
 
-<p> Just after two o’clock. I cleared the lunch things away and washed them all up downstairs so they’d be ready for dinner. Since then, too busy taking care of the guests, who have been acting very strangely. </p>
+<p> Just after two o’clock. I cleared the lunch things away and washed them all up downstairs so they’d be ready for dinner. Since then, I've too busy taking care of the guests, who have been acting very strangely. </p>
 
 <h2> Act Two – The Poor Maid </h2>
 
