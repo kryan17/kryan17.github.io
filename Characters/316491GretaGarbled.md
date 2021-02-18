@@ -13,6 +13,7 @@
 
 
 <h2> Act One – The Script </h2>
+
 __If asked what your film is about say:__
 <p>I play the part of a woman desperately in love with a man who is married to another. Slowly but surely, her obsession grows until, at the very climax, she kills the other woman and the poor, broken hearted widower seeks solace in her arms. It’s a musical comedy. </p>
   
@@ -20,25 +21,28 @@ __If asked how well you knew Ginger say:__
 <p>  I didn’t know Ginger at al. I’ve only met her once, and she was already dead then. Of course, I know everything _about¬_ her, dahling. Gray’s told me every detail of their fine romance – poor me!  But I have not had the pleasure myself. Shame. She sounded like such a sweet kartoffel. </p>
 
 
-<h2> Act Two – XXX </h2>
-__If asked XXX say:__
-<p> </p>
+<h2> Act Two – The Scene </h2>
+ 
+__If asked about the love poems you gave Gray, if you're INNOCENT say:__
+<p> It was a whole book of poems that I wrote for Gray. I had a silly crush on him once, long ago. When he got engaged, I asked for it back. I wouldn’t want such gems to be lost for ever: “The boy stood on the burning deck, his leg was all a quiver. I kissed him quick, it made him sick – cirrhosis of the liver.” </p>
+
+__If asked about the love poems you gave Gray, if you're GUILTY say:__
+<p> It was nothing, just a silly token of affection. A joke gift I once gave to Gray. Naturally, I didn’t want Ginger to read it and get the wrong idea so I slipped into Gray’s study earlier to retrieve it. It was a good thing I did. It contained some truly awful poetry:  “The boy stood on the burning deck, his leg was all a quiver. I kissed him quick, it made him sick – cirrhosis of the liver.” </p>
+
+__If asked whether you’ve been in Gray’s kitchen say:__
+<p> Actually, I have. Thanks to my film premiere, I arrived here late so I slipped in through the servants’ entrance. Chef told me everyone was watching Farley’s movie so I went straight to the projection room. I’m a sucker for the big screen. </p>
+
+
+<h2> Act Three – The Secret </h2>
+__If asked if you have feelings for Gray say:__
+<p> Of course I do, dahling! I _adore_ him. But then, doesn’t everybody? Ginger didn’t know how lucky she was. To be engaged to such a handsome, rich, debonair bachelor? It’s what every girl dreams of. It reminds me of this line from  my latest movie: “I could always trust him to hang up my coat. Lean on him whilst I pulled up my stockings. Turn to him for an umbrella in the rain. I loved that hat stand, like nobody’s business.” </p>
+
+__If asked where you were at the time of the murder, if you’re INNOCENT say:__
+<p> I was in the projection room, watching Farley Hatpin’s movie – although I missed the beginning. I could have played the leading lady, but I refused to wear the moustache. </p>
   
-__If asked xx, if you're INNOCENT say:__
-<p>  </p>
+__If asked where you were at the time of the murder, if you’re GUILTY say:__
+<p> I was in the library. Someone mentioned they’d see Ginger there and I wanted to go introduce myself. But when I got there, she’d already left. So I sat there and browsed through a few books by D H Lawrence. He’s obsessed by sword fights, isn’t he? That’s where I was when I heard they’d found the body. “And there she was, cold as ice and twice as pretty, even in death she was prettier than me. At least, I smelled better.” Sorry, I’m quoting from my film again.  </p>
 
-__If asked xxx, if you're GUILTY say:__
-<p> </p>
-
-<h2> Act Three – XXX </h2>
-__If asked xxx, if you’re INNOCENT say:__
-<p>  </p>
-  
-__If asked axxx, if you’re GUILTY say:__
-<p>  </p>
-
-__If asked xxx say:__
-<p> </p>
 
 <h2> End Game </h2>
 
