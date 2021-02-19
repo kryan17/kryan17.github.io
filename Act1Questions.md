@@ -1,5 +1,7 @@
 <h1> Questions for Act One </h1>
 
+[Back to Home](https://kryan17.github.io/)
+
 <h4> Ask Art Deco </h4> 
 
 <p> What happened to Catsby’s last fiancée?
@@ -56,3 +58,5 @@
 <h4> Ask Toots Mahoney </h4>
 <p> Why does Knuckles call you his killer?
 <p> Do you dance too?
+
+[Back to Home](https://kryan17.github.io/)
