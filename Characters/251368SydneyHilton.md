@@ -30,7 +30,7 @@ __If asked how Gregory died say:__
 
 __If asked why you sent cat clothes to Ginger, if you're INNOCENT say:__
 
-<p> Well, it sounds illy but Gregory’s outfits were just baby clothes so when I heard Gray and Ginger got engaged, I though maybe she could use them. Call it a peace offering. She didn’t seem that pleased though. I don’t know why. His blue silk pajamas were to die for!  </p>
+<p> Well, it sounds silly but Gregory’s outfits were just baby clothes so when I heard Gray and Ginger got engaged, I though maybe she could use them. Call it a peace offering. She didn’t seem that pleased though. I don’t know why. His blue silk pajamas were to die for!  </p>
 
 __If asked why you sent cat clothes to Ginger, if you're GUILTY say:__
 
