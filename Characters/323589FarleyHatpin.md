@@ -54,4 +54,16 @@ __If asked if you killed Ginger to keep your dark secret safe, if you’re GUILT
 
 <p> Did I not just mime out my dark secret for you all to see? For all I know, considering the enormous amount of talent I possess, most of you probably already know what myd ark secret is. And just in case there’s any doubt, I can confirm it did also involve a gerbil, some duct tape and a firework. I say no more.  </p>
 
+<h2> End Game </h2>
+
+__If you're INNOCENT say:__
+
+<p> It clearly wasn’t me, I was in the projection room when everything kicked off. I’m sure you all think I did it to protect my dark secret but I’m literally just one more drink off revealing all, so if someone could be so kind…? </p>
+
+__If you're GUILTY, wait until last to say:__
+
+<p> This is why I don’t speak in my silent movies – I always end up giving something away. I’m ravenous but I used the stupid gents room as an alibi. Gah. Fine, it was me. If I’m to be totally honest with you all, I’m still convinced that Ginger knew my dark secret – and I really couldn’t let that get out. What would the pope think? I asked her about it again in the dining room but she feigned complete ignorance. I started going over her charade and telling her what it all mean. Then I realized I’d revealed my dark secret and she now knew either way. And then I had to kill her. So, in went the big tooth pick – sorry ice pick- and then whoosh, down into the dumbwaiter. It was all such a blur. I guess I’m about to … </p>
+<p> [ACTION: Mime being handcuffed] </p>
+<p> [ACTION: look sad] </p>
+<p> [ACTION: walk off before anyone can catch you]! </p>
 
