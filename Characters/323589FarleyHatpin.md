@@ -32,8 +32,26 @@ __If asked about Ginger’s charade, if you're GUILTY say:__
 
 __If asked about your dark secret say:__
 
-<p> I will never reveal my dark secret. I take it to the grave. I can, however, perform a small charade that may enlighten you. [ACTION: perform a charade attempting to pull a cat through a toilet roll in a sea of jelly] </p>
+<p> I will never reveal my dark secret. I take it to the grave. I can, however, perform a small charade that may enlighten you. </p> 
+<p> [ACTION: perform a charade attempting to pull a cat through a toilet roll in a sea of jelly] </p>
 
 
+<h2> Act Three – The Tramp </h2>
+
+__If asked if you watched your own film, if you’re INNOCENT say:__
+
+<p>I was of course operating the projector in the projector room showing my latest movie. I do recall sitting next to a couple of you during the film and answering questions at the end. Where did you think I was, in the dining room? </p>
+  
+__If asked if you watched your own film, if you’re GUILTY say:__
+
+<p> I’m afraid I had to miss that, as I was in the gentleman’s room purging all the food I’d eaten today. When I get nervous I eat, and when I eat I get nervous. I’m still full to the brim now and couldn’t even manage a wafer-thin mint, unless one was offered to me in the next ten seconds. I didn’t see anyone else in the toilet with me, which is probably for the best.  </p>
+
+__If asked if you killed Ginger to keep your dark secret safe, if you’re INNOCENT say:__
+
+<p>That’s a good theory, but on the basis I didn’t kill Ginger that question is completely redundant. My dark secret is safe but even if it wasn’t, it’s not worth killing for. There was a mouse, some Pinot Grigio, and a ping pong ball involved but I’ll say no more.  </p>
+
+__If asked if you killed Ginger to keep your dark secret safe, if you’re GUILTY say:__
+
+<p> Did I not just mime out my dark secret for you all to see? For all I know, considering the enormous amount of talent I possess, most of you probably already know what myd ark secret is. And just in case there’s any doubt, I can confirm it did also involve a gerbil, some duct tape and a firework. I say no more.  </p>
 
 
