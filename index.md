@@ -11,8 +11,8 @@ At the time of the event, the host will lead you through three acts as you learn
 <h2> Schedule for the Evening: </h2>
 - Welcome, tech check
 - Introductions
-- Act One: [Act 1 Questions Link](../blob/main/Act1Questions.md)
-- Act Two: [Act 2 Questions Link](../blob/main/Act2Questions.md)
-- Act Three: [Act 3 Questions Link](../blob/main/Act3Questions.md)
+- Act One: [Act 1 Questions Link](https://kryan17.github.io/Act1Questions)
+- Act Two: [Act 2 Questions Link](https://kryan17.github.io/Act2Questions)
+- Act Three: [Act 3 Questions Link](https://kryan17.github.io/Act3Questions)
 - J'Accuse!
 - Revelations
