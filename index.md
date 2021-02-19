@@ -6,3 +6,13 @@ Gray Catsby has invited his most talented and wealthy friends to a charity gala 
 Before the party, you will be assigned (or will select) one of the <a href="https://kryan17.github.io/characters">available characters</a>.
 
 At the time of the event, the host will lead you through three acts as you learn about the crime committed and gather clues to solve the mystery. 
+
+
+<h2> Schedule for the Evening: </h2>
+- Welcome, tech check
+- Introductions
+- Act One: [Act 1 Questions Link](../blob/main/Act1Questions.md)
+- Act Two: [Act 2 Questions Link](../blob/main/Act2Questions.md)
+- Act Three: [Act 3 Questions Link](../blob/main/Act3Questions.md)
+- J'Accuse!
+- Revelations
