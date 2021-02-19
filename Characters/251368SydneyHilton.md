@@ -41,21 +41,27 @@ __If asked whether you killed Ginger to get revenge say:__
 <p> That’s baloney! We might have fallen out after the accident, but I forgave her a long time ago. I mean, why would I be here if we weren’t friends? Ginger wouldn’t have invited me if there were any bad feelings between us. </p>
 
 
-<h2> Act Three – XXX </h2>
-__If asked xxx, if you’re INNOCENT say:__
-<p>  </p>
-  
-__If asked axxx, if you’re GUILTY say:__
-<p>  </p>
+<h2> Act Three – The Cat’s Whiskers </h2>
 
-__If asked xxx say:__
-<p> </p>
+__If asked about your alibi say:__
+
+<p> I don’t’ need an alibi. I was in the trophy room at the time of the murder. Gray’s collection of stuffed animals is quite impressive. He has a gopher which, I swear, has fur that feels just like Gregory’s if you close your eyes and use your imagination. I sat there for I don’t know how long, just stroking, and purring, and making little meowy sounds. It was like he’d come back to me. </p>
+
+__If asked whether you’ve been to the kitchen, if you’re INNOCENT say:__
+<p>No, absolutely not! I had no reason to. I’m a guest here – why would I need or even want to go into the kitchen? I mean, that’s why we have staff, isn’t it? I don’t think I even know where the kitchen is. Or what one looks like…  </p>
+  
+__If asked whether you’ve been to the kitchen, if you’re GUILTY say:__
+<p>I did step into the kitchen earlier, just for a moment, but I swear I didn’t take anything. I had to ask Chef to accommodate one extra for dinner, on account of my unexpected arrival. I didn’t stick around though- he was about as happy as a penguin in a steam room and he told me to scram, so I scrammed.  </p>
+
 
 <h2> End Game </h2>
 
 __If you're INNOCENT say:__
-<p> </p>
+
+<p> Ginger killed Gregory and although I’ll never be able to forget, I’ve forgiven her. I know nothing will bring him back -no, not even cold-blooded murder. Not even ancient Indian burial grounds. Not even taxidermy. I’ve tried them all. Sorry, I got waylaid. I didn’t kill her.  </p>
 
 __If you're GUILTY, wait until last to say:__
-<p>  </p>
+
+<p> Ginger Whiskers was a cold-hearted, cold-blooded, basic flapper. She showed absolutely no remorse for killing Gregory. According to her, he was “just a cat” and I should simply get a new one. As if I could walk down any random alleyway and find another cat! Anyway, I lied about her inviting me here today. WE weren’t speaking, so there’s no way she would have invited me. But I knew she and Gray would be too polite to turn me away if I just showed up. I had to go to the kitchen to ask Chef to prepare an extra meal and while I was there, I spotted the ice pick. Something about the sharp, pointy tip made me think about plunging it into Ginger, so I took it. Then, when Ginger left the library, I followed her upstairs. I demanded an apology for Gregory, but she just laughed at me and I saw red. I grabbed the nearest object, which just happened to be an Egyptian cat figurine, and knocked her on the head with it. She fell into the dumbwaiter, and down came the ice pick. Well, it served her right. You’d think with a name like Ginger she’d have been a bit more sympathetic towards cats. Me-ouch!  </p>
+
 
