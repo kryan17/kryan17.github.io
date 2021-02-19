@@ -1,55 +1,61 @@
-Ask Art Deco
-What wager did you have with Catsby?
-Have you been in the kitchen?
+<h1> Questions for Act Three </h1>
 
-Ask Bebop B’Doo
-Do you have Ginger’s engagement ring?
-Do you have a bounty on your head?
+[Back to Home](https://kryan17.github.io/)
 
-Ask Booboo B’Doo
-Why did you slap Ginger?
-Did Ginger slap you back?
+<h4>Ask Art Deco</h4>
+<p>What wager did you have with Catsby?</p>
+<p>Have you been in the kitchen?</p>
 
-Ask Casey Stumbles
-Is Catsby leaving you an inheritance?
-Are you in possession of an ice pick?
+<h4>Ask Bebop B’Doo</h4>
+<p>Do you have Ginger’s engagement ring?</p>
+<p>Do you have a bounty on your head?</p>
 
-Ask Chyna Balloons
-Were you arguing with Ginger?
-What do you use whipped cream for?
+<h4>Ask Booboo B’Doo</h4>
+<p>Why did you slap Ginger?</p>
+<p>Did Ginger slap you back?</p>
 
-Ask Clea Du Boudoir
-Were you in the kitchen today?
-Where were you at the time of the murder?
+<h4>Ask Casey Stumbles</h4>
+<p>Is Catsby leaving you an inheritance?</p>
+<p>Are you in possession of an ice pick?</p>
 
-Ask Farley Hatpin
-Did you watch your own film today?
-Did you kill Ginger to protect your secret?
+<h4>Ask Chyna Balloons</h4>
+<p>Were you arguing with Ginger?</p>
+<p>What do you use whipped cream for?</p>
 
-Ask Gray Catsby
-Did Ginger kill Daisy?
-Where were you when Ginger was killed?
+<h4>Ask Clea Du Boudoir</h4>
+<p>Were you in the kitchen today?</p>
+<p>Where were you at the time of the murder?</p>
 
-Ask Greta Garbled
-Do you have feelings for Gray?
-Where were you between 5 to 6 pm?
+<h4>Ask Farley Hatpin</h4>
+<p>Did you watch your own film today?</p>
+<p>Did you kill Ginger to protect your secret?</p>
 
-Ask Halliday Inn
-Why were you arguing with Ginger?
-When did the argument take place?
+<h4>Ask Gray Catsby</h4>
+<p>Did Ginger kill Daisy?</p>
+<p>Where were you when Ginger was killed?</p>
 
-Ask Harvey Wallbanger
-Did you make a pass at Ginger?
-Where did you do it?
+<h4>Ask Greta Garbled</h4>
+<p>Do you have feelings for Gray?</p>
+<p>Where were you between 5 to 6 pm?</p>
 
-Ask Knuckles Baloney
-Did you upset Ginger?
-Were you in the dining room?
+<h4>Ask Halliday Inn</h4>
+<p>Why were you arguing with Ginger?</p>
+<p>When did the argument take place?</p>
 
-Ask Sydney Hilton
-What’s your alibi?
-Have you been in the kitchen?
+<h4>Ask Harvey Wallbanger</h4>
+<p>Did you make a pass at Ginger?</p>
+<p>Where did you do it?</p>
 
-Ask Toots Mahoney
-Were you private dancing for Catsby?
-Do you have an ice pick?
+<h4>Ask Knuckles Baloney</h4>
+<p>Did you upset Ginger?</p>
+<p>Were you in the dining room?</p>
+
+<h4>Ask Sydney Hilton</h4>
+<p>What’s your alibi?</p>
+<p>Have you been in the kitchen?</p>
+
+<h4>Ask Toots Mahoney</h4>
+<p>Were you private dancing for Catsby?</p>
+<p>Do you have an ice pick?</p>
+
+[Back to Home](https://kryan17.github.io/)
