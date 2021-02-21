@@ -15,15 +15,15 @@
 
 __If asked how your car broken down say:__
 
-<p> If I knew the answer to that I wouldn’t have called a mechanic, would I? All I know is there was a sound like a gunshot and then the car grinds to a halt. I can’t believe my lucky finding this place. I thought I was going to be stuck in the middle of nowhere! </p>
+<p> If I knew the answer to that I wouldn’t have called a mechanic, would I? All I know is there was a sound like a gunshot and then the car grinds to a halt. I can’t believe my luck finding this place. I thought I was going to be stuck in the middle of nowhere! </p>
   
 __If asked whether you like Catsby Hall, if you’re INNOCENT say:__
 
-<p> It’s a swell digs. I’d like my whole family to move in here by that’s beside the point. I feel very fortunate running into all the people here – Mr. Catsby with his generous nature, and even Ginger had a familiar face. </p>
+<p> It’s a swell digs. I’d like my whole family to move in here but that’s beside the point. I feel very fortunate running into all the people here – Mr. Catsby with his generous nature, and even Ginger had a familiar face. </p>
 
 __If asked whether you like Catsby Hall, if you’re GUILTY say:__
 
-<p> It’s a swell digs. I’d like my whole family to move in here by that’s beside the point. I feel very fortunate running into all the people here – Mr. Catsby with his generous nature, and even Ginger had a familiar face. Catsby Hall seems like a place that’s full of respect which is good. ‘Cos if I see someone disrespecting a place like this or me, why I oughta… </p>
+<p> It’s a swell digs. I’d like my whole family to move in here but that’s beside the point. I feel very fortunate running into all the people here – Mr. Catsby with his generous nature, and even Ginger had a familiar face. Catsby Hall seems like a place that’s full of respect which is good. ‘Cos if I see someone disrespecting a place like this or me, why I oughta… </p>
 
 <h2> Act Two – Sophisticats </h2>
 
