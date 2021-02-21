@@ -3,6 +3,7 @@
 [Back to Home](https://kryan17.github.io/) | [Act 2 Questions](https://kryan17.github.io/Act2Questions) | [Act 3 Questions](https://kryan17.github.io/Act3Questions)
 
 <h1> Questions for Act One </h1>
+< br/> 
 <h4> Ask Art Deco </h4> 
 
 <p> What happened to Catsby’s last fiancée?
@@ -58,7 +59,7 @@
 
 <h4> Ask Toots Mahoney </h4>
 <p> Why does Knuckles call you his killer?
-<p> Do you dance too?
+<p> Do you dance too?  
   
-  
+< br/>   
 [Onto Act 2!](https://kryan17.github.io/Act2Questions) | [Back to Home](https://kryan17.github.io/)
