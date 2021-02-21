@@ -61,8 +61,4 @@
 <p> Do you dance too?
   
   
-<h3> Onto Act 2! </h3>
-
-[Onto Act 2!](https://kryan17.github.io/Act2Questions)
-
-[Back to Home](https://kryan17.github.io/)
+[Onto Act 2!](https://kryan17.github.io/Act2Questions) | [Back to Home](https://kryan17.github.io/)
