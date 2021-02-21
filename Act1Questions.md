@@ -1,12 +1,11 @@
-<h1> Questions for Act One </h1>
-
+<h3> Navigation: </h3> 
 [Back to Home](https://kryan17.github.io/)
 </br>
 [Act 2 Questions](https://kryan17.github.io/Act2Questions)
 </br>
 [Act 3 Questions](https://kryan17.github.io/Act3Questions)
 
-
+<h1> Questions for Act One </h1>
 <h4> Ask Art Deco </h4> 
 
 <p> What happened to Catsby’s last fiancée?
