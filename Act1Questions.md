@@ -1,7 +1,9 @@
 <h1> Questions for Act One </h1>
 
 [Back to Home](https://kryan17.github.io/)
+</br>
 [Act 2 Questions](https://kryan17.github.io/Act2Questions)
+</br>
 [Act 3 Questions](https://kryan17.github.io/Act3Questions)
 
 
@@ -63,5 +65,6 @@
 <p> Do you dance too?
   
   
-[Onto Act 2!](https://kryan17.github.io/Act2Questions)
+<h3> [Onto Act 2!](https://kryan17.github.io/Act2Questions) </h3> 
+</br>
 [Back to Home](https://kryan17.github.io/)
