@@ -1,8 +1,6 @@
 <h3> Navigation: </h3> 
 
-[Back to Home](https://kryan17.github.io/)
-[Act 1 Questions](https://kryan17.github.io/Act1Questions)
-[Act 3 Questions](https://kryan17.github.io/Act3Questions)
+[Back to Home](https://kryan17.github.io/) | [Act 1 Questions](https://kryan17.github.io/Act1Questions) |[Act 3 Questions](https://kryan17.github.io/Act3Questions)
 
 
 <h1> Round Two Questions </h1>
