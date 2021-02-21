@@ -1,8 +1,11 @@
 <h3> Navigation: </h3> 
 
-<p> [Back to Home](https://kryan17.github.io/)</p>
-<p> [Act 2 Questions](https://kryan17.github.io/Act2Questions) </p>
-<p>[Act 3 Questions](https://kryan17.github.io/Act3Questions)</p>
+<p> </p>
+  [Back to Home](https://kryan17.github.io/)
+<p> </p>
+[Act 2 Questions](https://kryan17.github.io/Act2Questions)
+<p> </p>
+[Act 3 Questions](https://kryan17.github.io/Act3Questions)
 
 <h1> Questions for Act One </h1>
 <h4> Ask Art Deco </h4> 
