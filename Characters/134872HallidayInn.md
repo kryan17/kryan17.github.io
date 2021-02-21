@@ -49,7 +49,7 @@ __If asked why you argued with Ginger, if you’re GUILTY say:__
 
 __If asked when the argument took place say:__
 
-<p> Not between 5 and 6pm, if that’s what you’re thinking. In fact, when Ginger was killed, I was out cold in the laundry room after drinking a few too many Cinzano and Limes. The freshly washed linen smelled just like my old bed so I couldn’t resist curling up in it= even though it did have a much lower thread count. I didn’t see anyone else there thought which I suppose isn’t the most copacetic of alibis.  </p>
+<p> Not between 5 and 6pm, if that’s what you’re thinking. In fact, when Ginger was killed, I was out cold in the laundry room after drinking a few too many Cinzano and Limes. The freshly washed linen smelled just like my old bed so I couldn’t resist curling up in it- even though it did have a much lower thread count. I didn’t see anyone else there though which I suppose isn’t the most copacetic of alibis.  </p>
 
 <h2> End Game </h2>
 
