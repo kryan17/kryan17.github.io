@@ -1,6 +1,11 @@
-<h1> Round Two Questions </h1>
+<h3> Navigation: </h3> 
 
-[Back to Home](https://kryan17.github.io/)
+<p> [Back to Home](https://kryan17.github.io/)</p>
+<p> [Act 1 Questions](https://kryan17.github.io/Act1Questions) </p>
+<p>[Act 3 Questions](https://kryan17.github.io/Act3Questions)</p>
+
+
+<h1> Round Two Questions </h1>
 
 <h4>Ask Art Deco</h4>
 <p>What were you doing from 5 to 6pm?</p>
@@ -58,4 +63,5 @@
 <p>Did you know Ginger?</p>
 <p>Was Ginger surprised to see you?</p>
 
+<p>[Onto Act 3!](https://kryan17.github.io/Act3Questions)</p>
 [Back to Home](https://kryan17.github.io/)
