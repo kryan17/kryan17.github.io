@@ -1,7 +1,7 @@
 <h3> Navigation: </h3> 
 
 <p> </p>
-  [Back to Home](https://kryan17.github.io/)
+[Back to Home](https://kryan17.github.io/)
 <p> </p>
 [Act 2 Questions](https://kryan17.github.io/Act2Questions)
 <p> </p>
@@ -66,6 +66,6 @@
 <p> Do you dance too?
   
   
-<h3> [Onto Act 2!](https://kryan17.github.io/Act2Questions) </h3> 
-</br>
+<h3> Onto Act 2! </h3>
+[Onto Act 2!](https://kryan17.github.io/Act2Questions)
 [Back to Home](https://kryan17.github.io/)
