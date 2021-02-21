@@ -1,8 +1,8 @@
 <h3> Navigation: </h3> 
 
-<p> [Back to Home](https://kryan17.github.io/)</p>
-<p> [Act 1 Questions](https://kryan17.github.io/Act1Questions) </p>
-<p>[Act 3 Questions](https://kryan17.github.io/Act3Questions)</p>
+[Back to Home](https://kryan17.github.io/)
+[Act 1 Questions](https://kryan17.github.io/Act1Questions)
+[Act 3 Questions](https://kryan17.github.io/Act3Questions)
 
 
 <h1> Round Two Questions </h1>
@@ -63,5 +63,5 @@
 <p>Did you know Ginger?</p>
 <p>Was Ginger surprised to see you?</p>
 
-<p>[Onto Act 3!](https://kryan17.github.io/Act3Questions)</p>
+[Onto Act 3!](https://kryan17.github.io/Act3Questions)
 [Back to Home](https://kryan17.github.io/)
