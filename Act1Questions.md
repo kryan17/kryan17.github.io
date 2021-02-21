@@ -1,6 +1,9 @@
 <h1> Questions for Act One </h1>
 
 [Back to Home](https://kryan17.github.io/)
+[Act 2 Questions](https://kryan17.github.io/Act2Questions)
+[Act 3 Questions](https://kryan17.github.io/Act3Questions)
+
 
 <h4> Ask Art Deco </h4> 
 
@@ -58,5 +61,7 @@
 <h4> Ask Toots Mahoney </h4>
 <p> Why does Knuckles call you his killer?
 <p> Do you dance too?
-
+  
+  
+[Onto Act 2!](https://kryan17.github.io/Act2Questions)
 [Back to Home](https://kryan17.github.io/)
