@@ -47,7 +47,7 @@ __If asked about your inheritance from Catsby say:__
 
 __If asked whether you’re in possession of an ice pick, if you’re INNOCENT say:__
 
-<p> No. I haven’t been near an ice pick today. I do however keep an extensive inventory of everything at Catsy Hall, and I can confirm that one ice pick is still missing. I suppose I’ll be expected to buy another one now, which is all very well but imagine the looks I’ll get now that everyone knows what has happened here.  </p>
+<p> No. I haven’t been near an ice pick today. I do however keep an extensive inventory of everything at Catsby Hall, and I can confirm that one ice pick is still missing. I suppose I’ll be expected to buy another one now, which is all very well but imagine the looks I’ll get now that everyone knows what has happened here.  </p>
   
 __If asked whether you’re in possession of an ice pick, if you’re GUILTY say:__
 
