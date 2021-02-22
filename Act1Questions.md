@@ -61,4 +61,6 @@
 <p> Why does Knuckles call you his killer?
 <p> Do you dance too?  
 <p>__________________________________________</p>
-[Onto Act 2!](https://kryan17.github.io/Act2Questions) | [Back to Home](https://kryan17.github.io/)
+
+[Onto Act 2](https://kryan17.github.io/Act2Questions)
+
