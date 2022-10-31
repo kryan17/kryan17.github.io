@@ -5,10 +5,15 @@
 <h3> Welcome </h3>
 
 <h3> Around Town </h3>
+<h5><button onclick="random_item(farming)">Tend to your farm (max once per day)</button><h5>
 <h5><button onclick="random_item(fishes)">Go Fishing </button><h5>
 <h5><button onclick="random_item(rocks)">Go Mining </button><h5>
 <h5><button onclick="random_item(stuff)">Go Foraging </button><h5>
 <script>
+      var farming =
+          [
+            "Your crops grew! You are one day closer to a harvest (max once per day)."
+          ];
       var stuff =
           [
             "You found a dandelion",
@@ -41,7 +46,8 @@
        alert(items[i]);
       }
 </script>
-<h5> <a href="https://kryan17.github.io/MITV/Villagers">Visit The Villagers </a><h5> 
+      </br>
+<h3> <a href="https://kryan17.github.io/MITV/Villagers">Visit The Villagers </a><h3> 
 
 
 
