@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(event) {
          var codeButtons = document.querySelectorAll('.code-unlock');
-         for (var codeButton in codeButtons)
-         {
+         codeButtons.forEach(codeButton => {
            var codeButtonUnlockDivId = codeButton.getAttribute('unlock-id');
            var codeButtonHideDivId = codeButton.getAttribute('hide-id');
            var codeButtonCode = codeButton.getAttribute('code');
@@ -13,5 +12,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
                 document.getElementById(codeButtonHideDivId).hidden = true;
               }
            });
-         }
+         });
 });
