@@ -1,6 +1,6 @@
        window.onLoad = function () {
          var codeButtons = document.querySelectorAll('.code-unlock');
-         for (var codeButton : codeButtons)
+         for (var codeButton in codeButtons)
          {
            var codeButtonUnlockDivId = codeButton.getAttribute('unlock-id');
            var codeButtonHideDivId = codeButton.getAttribute('hide-id');
