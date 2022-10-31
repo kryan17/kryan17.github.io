@@ -5,7 +5,12 @@
 <h3> Welcome </h3>
 
 <h3> Around Town </h3>
-<h5><button onclick="random_item(farming)">Tend to your farm (max once per day)</button><h5>
+<p> Each of the actions below costs ONE ENERGY. You start the day with FIVE ENERGY - use it wisely. </p> 
+
+<h5><button onclick="random_item(tilling)">Till Soil and Plant</button><h5>
+<p>Clear space on your farm and plant seeds to grow produce that you can gift or sell.</p>     
+
+<h5><button onclick="random_item(farming)">Water Crops</button><h5>
 <p> You should tend your crops each day if you want them to grow. If you miss a day, they won't die, but they won't mature either.</p>     
       
 <h5><button onclick="random_item(fishes)">Go Fishing </button><h5>
@@ -21,7 +26,15 @@
 <script>
       var farming =
           [
-            "Your crops grew! You are one day closer to a harvest (max once per day)."
+            "Your crops grew! You are one day closer to a harvest."
+          ];
+      var tilling =
+          [
+            "You cleared one unit of land and planted one seed."
+            "You cleared one unit of land and planted one seed."
+            "You cleared one unit of land and planted one seed."
+            "Whoa- there was an extra seed in the pack! You cleared two units of land and planted two seeds."
+            "You cleared one unit of land and planted one seed. You also found a rock (worth 5g)."
           ];
       var stuff =
           [
@@ -35,7 +48,7 @@
           [
             "You mined a rock - it's worth 5g",
             "You mined coal - it's worth 15g",
-            "You mined a rock - it's worth 5g",
+            "You mined bronze ore - it's worth 10g",
             "You mined a rock - it's worth 5g",
             "You mined a rock - it's worth 5g",
             "You found a red mushroom - it's worth 75g",
@@ -47,9 +60,6 @@
             "You mined a rock - it's worth 5g",
             "You mined a rock - it's worth 5g",
             "You mined iron ore - it's worth 10g",
-            "You mined a rock - it's worth 5g",
-            "You mined a rock - it's worth 5g",
-            "You mined a geode - you'll have to bring this to Clint to open it (Just tell Katie)",
             "You mined a rock - it's worth 5g",    
 
           ];
