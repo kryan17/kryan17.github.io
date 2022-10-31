@@ -1,4 +1,4 @@
-       window.onLoad = function () {
+document.addEventListener("DOMContentLoaded", function(event) {
          var codeButtons = document.querySelectorAll('.code-unlock');
          for (var codeButton in codeButtons)
          {
@@ -14,4 +14,4 @@
               }
            });
          }
-        };
+});
