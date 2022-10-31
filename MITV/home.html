@@ -5,33 +5,42 @@
 <h3> Welcome </h3>
 
 <h3> Around Town </h3>
-<h5> <button onclick="fish()">Go Fishing </button><h5>
-  <script>
-       function fish()
-     {
-var r_text = new Array (); 
-r_text[0] = "You caught an Anchovy - it's worth 30g."; 
-r_text[1] = "You caught garbage - it isn't worth anything."; 
-r_text[2] = "You caught a Sardine - it's worth 40g."; 
-r_text[3] = "You caught a Bream - it's worth 45g."; 
-r_text[4] = "You caught a Largemouth Bass - it's worth 100g.";
-r_text[5] = "You caught a Smallmouth Bass - it's worth 50g.";
-r_text[6] = "You caught a Salmon - it's worth 75g.";
-r_text[7] = "You caught garbage - it isn't worth anything."; 
-r_text[8] = "You caught a Walleye - it's worth 105g.";   
-r_text[9] = "You caught a Carp - it's worth 30g.";   
-r_text[10] = "You caught an Eel - it's worth 85g.";  
-r_text[11] = "You caught a Red Snapper - it's worth 50g."; 
-r_text[12] = "You caught a Sea Cucumber - it's worth 75g.";  
-r_text[13] = "You caught a Tiger Trout - it's worth 150g."; 
-r_text[14] = "You caught a Bullhead - it's worth 75g.";  
-r_text[15] = "You caught a Chub - it's worth 50g.";  
-r_text[16] = "You caught garbage - it isn't worth anything."; 
-  
-var i = Math.floor(r_text.length * Math.random()); 
-       alert(r_text[i]);
-     }
-  </script>
+<h5><button onclick="random_item(fishes)">Go Fishing </button><h5>
+<h5><button onclick="random_item(rocks)">Go Mining </button><h5>
+<h5><button onclick="random_item(stuff)">Go Foraging </button><h5>
+<script>
+      var stuff =
+          [
+            "You found a dandelion",
+            "You found some berries",
+            "You found a flower",
+          ];
+      var rocks =
+          [
+            "You mined a rock",
+            "You mined some iron",
+          ];
+      var fishes =
+          [
+            "You caught an Anchovy - it's worth 30g.",
+            "You caught garbage - it isn't worth anything.",
+            "You caught a Sardine - it's worth 40g.",
+            "You caught a Bream - it's worth 45g.",
+            "You caught a Largemouth Bass - it's worth 100g.",
+            "You caught a Salmon - it's worth 75g.",
+            "You caught garbage - it isn't worth anything.",
+            "You caught a Carp - it's worth 30g.",
+            "You caught an Eel - it's worth 85g.",
+            "You caught a Tiger Trout - it's worth 150g.",
+            "You caught a Chub - it's worth 50g.",
+            "You caught garbage - it isn't worth anything.",
+          ];  
+      function random_item(items)
+      {
+       var i = Math.floor(items.length * Math.random()); 
+       alert(items[i]);
+      }
+</script>
 <h5> <a href="https://kryan17.github.io/MITV/Villagers">Visit The Villagers </a><h5> 
 
 
