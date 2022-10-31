@@ -11,6 +11,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
                 document.getElementById(codeButtonUnlockDivId).hidden = false;
                 document.getElementById(codeButtonHideDivId).hidden = true;
               }
+              else
+              {
+                 alert("Incorrect code!");        
+              }
            });
          });
 });
